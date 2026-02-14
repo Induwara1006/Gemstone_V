@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Amethyst"
+    },
+    {
+      "id": 1,
+      "name": "Aventurine"
+    },
+    {
+      "id": 2,
+      "name": "Clear_Quartz"
+    },
+    {
+      "id": 3,
+      "name": "Lapis_Lazuli"
+    },
+    {
+      "id": 4,
+      "name": "Obsidian"
+    },
+    {
+      "id": 5,
+      "name": "Red_Jasper"
+    },
+    {
+      "id": 6,
+      "name": "Rose_Quartz"
+    },
+    {
+      "id": 7,
+      "name": "Tigers_Eye"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
